@@ -10,6 +10,7 @@ Formatted Display: Time is displayed with leading zeros for single-digit values 
 
 
 Code Explanation
+
 HTML
 The HTML file contains the basic structure of the stopwatch, including buttons for starting, stopping, and resetting the timer, and a display area for the time.
 
